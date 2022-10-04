@@ -2,4 +2,13 @@ body{
 	text-align: center;
 	font-family: arial;
 	background-color: gray;
+	padding: 60px;
+}
+
+h1{
+	color: white;
+}
+
+p{
+	color: #fff;
 }
